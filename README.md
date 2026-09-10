@@ -1,6 +1,8 @@
 # Improved-Surface-Characterisation-ImC
 Improved Characterisation (ImC) of optical structured surfaces
 
+![image](image.jpg)
+
 For paper published in Precision Engineering 
 https://doi.org/10.1016/j.precisioneng.2026.09.007
 
